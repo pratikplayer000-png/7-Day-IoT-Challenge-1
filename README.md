@@ -33,7 +33,7 @@ This power supply rail will be used to power 5V components (servos, relays, ICs)
 ---
 
 ## 📷 Circuit Setup
-![5V Power Supply Circuit](WhatsApp Image 2026-09-14 at 9.15.06 PM.jpg)
+![5V Power Supply Circuit](WhatsApp_Image_2026-09-14_at_9.15.06_PM.jpg)
 
 ---
 
